@@ -7,7 +7,7 @@
 <h3>Tech Stack:- HTML, CSS, JavaScript</h3>
 <h3>Deployed Link:- https://txteditr.netlify.app/</h3>
 <h2>Landing Page</h2>
-<img src="<img width="959" alt="image" src="https://github.com/7-astha-rajput/CodeclauseBasicTextEditor/assets/98215717/294239b8-e012-4978-8db4-4bf0000ef936"></img>
+<img src="img.png"></img>
 
 
 <h2>Thanks for Visiting</h2>
